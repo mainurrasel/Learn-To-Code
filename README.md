@@ -31,5 +31,9 @@ git branch -a
 #To create a new branch to the existing repository from the command line
 git checkout -b "branch name"
 
+#To push in new branch to the existing repository from the command line
+git push --set-upstream origin NewBranch
+
+
 To import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
