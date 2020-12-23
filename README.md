@@ -4,14 +4,14 @@ Here is my task Folder of Learn to code.
 git init
 git add README.md
 git commit -m "first commit"
-git branch -M main
+git branch -M master
 git remote add origin https://github.com/mainurrasel/Learn-To-Code.git
-git push -u origin main
+git push -u origin master
                 
 #To push existing repository from the command line
 git remote add origin https://github.com/mainurrasel/Learn-To-Code.git
-git branch -M main
-git push -u origin main
+git branch -M master
+git push -u origin master
 
 #To clone existing repository from the command line
 git clone https://github.com/mainurrasel/Learn-To-Code.git
@@ -32,7 +32,7 @@ git branch -a
 git checkout -b "branch name"
 
 #To push in new branch to the existing repository from the command line
-git push --set-upstream origin NewBranch
+git push --set-upstream origin "new branch name"
 
 
 To import code from another repository
