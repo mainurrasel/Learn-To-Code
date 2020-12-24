@@ -1,3 +1,6 @@
+#phrase making
+#randomly choices verb, adjective and noun
+#concat them together and print as phrase
 import random
 verbs = ['Leverage', 'Sync', 'Target',
 'Gamify', 'Offline', 'Crowd-sourced',

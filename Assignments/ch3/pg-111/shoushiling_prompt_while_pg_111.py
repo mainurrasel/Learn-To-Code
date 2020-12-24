@@ -9,6 +9,7 @@ elif random_choice == 1:
     computer_choice = 'paper'
 else:
     computer_choice = 'scissors'
+    
 user_choice = input('rock, paper or scissors? ')
 user_choice = ''
 while (user_choice != 'rock' and
@@ -25,6 +26,7 @@ elif computer_choice == 'scissors' and user_choice == 'paper':
     winner = 'Computer'
 else:
     winner = 'User'
+    
 if winner == 'Tie':
     print('We both chose', computer_choice + ', play again.')
 else:
