@@ -12,8 +12,8 @@ print(codies_bark)
 
 def make_greeting(name):
     return 'Hi ' + name + '!'
-make_greeting = make_greeting('Speedy')
-print (make_greeting)
+x = make_greeting('Speedy')
+print (x)
 
 def compute(x, y):
     total = x + y
