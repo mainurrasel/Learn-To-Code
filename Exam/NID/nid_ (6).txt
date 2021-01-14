@@ -1,0 +1,17 @@
+File Name:  nid_ (6).jpg 
+ NID Information: {"mrz_type": "TD1", "valid_score": 77, "type": "I<", "country": "BGO", "number": "460356635", "date_of_birth": "941025", "expiration_date": "301110", "nationality": "BGD", "sex": "F", "names": "MUSHFIKA", "surname": "FARIA", "optional1": "97<<<<<<<<<<<<<", "optional2": "<<<<<<<<<<<", "check_number": "<", "check_date_of_birth": "7", "check_expiration_date": "2", "check_composite": "0", "valid_number": false, "valid_date_of_birth": true, "valid_expiration_date": true, "valid_composite": true, "method": "direct"} 
+ base64 File Size: 117.1708984375 kb 
+ Response Time: 2.056492 Sec 
+
+File Size of: nid_ (6).jpg  is  0.927734375 kb 
+
+File Size of: nid_ (6).jpg  is  0.9130859375 kb 
+
+File Size of: nid_ (6).jpg  is  0.0 kb 
+
+File Size of: nid_ (6).jpg  is  0.8857421875 kb 
+
+File Size of: nid_ (6).jpg  is  0.9169921875 kb 
+
+File Size of: nid_ (6).jpg  is  2.5498046875 kb 
+

@@ -1,0 +1,5 @@
+File Name:  nid_ (4).jpg 
+ NID Information: {"mrz_type": "TD1", "valid_score": 55, "type": "I<", "country": "BGD", "number": "A60357911", "date_of_birth": "930101", "expiration_date": "321213", "nationality": "BGD", "sex": "M", "names": "MOHAMMAD ASHRAFUL", "surname": "ISLAM", "optional1": "37<<<<<<<<<<<<<", "optional2": "<<<<<<<<<<<", "check_number": "<", "check_date_of_birth": "0", "check_expiration_date": "8", "check_composite": "8", "valid_number": false, "valid_date_of_birth": true, "valid_expiration_date": true, "valid_composite": false, "method": "black_tophat"} 
+ base64 File Size: 136.3427734375 kb 
+ Response Time: 3.148179 Sec 
+

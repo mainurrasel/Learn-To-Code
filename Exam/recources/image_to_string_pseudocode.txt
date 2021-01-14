@@ -1,0 +1,28 @@
+Problem: We have some images of back side of smart NID card.
+	 We need to convert images to base 64 string.
+	 Postman get request with the base 64 strings to fetch NID datas.
+
+Pseudocode:
+
+	For Single Image:
+		
+		1)Select an image file.
+		2)Read the image path.
+                3)Take a variable and assign with encoder.
+                3)Encode the image data in base64 string.
+                4)Print the string.
+		5)Save the string for further use.
+	
+	 For Multiple Image:
+		#Iterate over the files inside the folder.
+		1)Take an empty list for base 64 string.
+		2)Read the path of the folder which contains images.
+		3)Iterate, over the images with the for loop.
+                3)Take a variable and assign with encoder.
+                4)Encode the images into base 64 strings.
+                5)Extend the base 64 string data to the empty list.
+                6)Print the string data from the list.
+		7)Save the string for further use.
+
+After getting the base 64 stings,
+Postman request with the strings and fetch NID datas.

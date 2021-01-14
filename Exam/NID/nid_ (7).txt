@@ -1,0 +1,17 @@
+File Name:  nid_ (7).jpg 
+ NID Information: {"mrz_type": "TD2", "valid_score": 2, "type": "WI", "country": "III", "number": "I<BGD4193", "date_of_birth": "2<04<<", "expiration_date": "<<<<<<", "nationality": "O79", "sex": "<", "names": "", "surname": "IVIWDGVLA7XOIIAH", "optional1": "<<<<<<<", "check_number": "5", "check_date_of_birth": "<", "check_expiration_date": "<", "check_composite": "<", "valid_number": false, "valid_date_of_birth": false, "valid_expiration_date": false, "valid_composite": false, "method": "black_tophat"} 
+ base64 File Size: 68.0556640625 kb 
+ Response Time: 2.739437 Sec 
+
+File Size of: nid_ (7).jpg  is  0.927734375 kb 
+
+File Size of: nid_ (7).jpg  is  0.9130859375 kb 
+
+File Size of: nid_ (7).jpg  is  0.9150390625 kb 
+
+File Size of: nid_ (7).jpg  is  0.0 kb 
+
+File Size of: nid_ (7).jpg  is  0.9169921875 kb 
+
+File Size of: nid_ (7).jpg  is  2.5498046875 kb 
+

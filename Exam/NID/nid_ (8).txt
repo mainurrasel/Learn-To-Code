@@ -1,0 +1,17 @@
+File Name:  nid_ (8).jpg 
+ NID Information: {"mrz_type": "TD1", "valid_score": 55, "type": "I<", "country": "BGD", "number": "778416329", "date_of_birth": "941208", "expiration_date": "320114", "nationality": "BGD", "sex": "M", "names": "SYED TASLIMUR", "surname": "RAHAMAN", "optional1": "25<<<<<<<<<<<<<", "optional2": "<<<<<<<<<<<", "check_number": "<", "check_date_of_birth": "8", "check_expiration_date": "1", "check_composite": "A", "valid_number": false, "valid_date_of_birth": true, "valid_expiration_date": true, "valid_composite": false, "method": "direct"} 
+ base64 File Size: 89.822265625 kb 
+ Response Time: 3.596913 Sec 
+
+File Size of: nid_ (8).jpg  is  0.927734375 kb 
+
+File Size of: nid_ (8).jpg  is  0.9130859375 kb 
+
+File Size of: nid_ (8).jpg  is  0.9150390625 kb 
+
+File Size of: nid_ (8).jpg  is  0.8896484375 kb 
+
+File Size of: nid_ (8).jpg  is  0.0 kb 
+
+File Size of: nid_ (8).jpg  is  2.5498046875 kb 
+
