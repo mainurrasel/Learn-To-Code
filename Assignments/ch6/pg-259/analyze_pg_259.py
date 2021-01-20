@@ -1,8 +1,10 @@
 import ch1text
 def count_sentences(text):
     count = 0
+
+    terminals = '.;?!'
     for char in text:
-        if char == '.' or char == ';' or char == '?' or char == '!':
+        if char in terminals:
             count = count + 1
     return count
 def compute_readability(text):
@@ -13,7 +15,7 @@ def compute_readability(text):
     words = text.split()
     total_words = len(words)
     total_sentences = count_sentences(text)
-    print(words)
+    #print(words)
     print(total_words, 'words')
     print(total_sentences, 'sentences')
 compute_readability(ch1text.text)

@@ -1,17 +1,7 @@
 File Name:  nid_ (5).jpg 
- NID Information: {"mrz_type": "TD1", "valid_score": 77, "type": "I<", "country": "BGO", "number": "237928876", "date_of_birth": "960615", "expiration_date": "301027", "nationality": "BGD", "sex": "H", "names": "ND AZFAR", "surname": "INAN", "optional1": "00<<<<<<<<<<<<<", "optional2": "<<<<<<<<<<<", "check_number": "<", "check_date_of_birth": "1", "check_expiration_date": "5", "check_composite": "6", "valid_number": false, "valid_date_of_birth": true, "valid_expiration_date": true, "valid_composite": true, "method": "direct"} 
+ NID Information: {"responseType":"Error","response":"Invalid Api Key"} 
  base64 File Size: 126.0087890625 kb 
- Response Time: 2.285751 Sec 
+ Response Time: 0.057724 Sec 
 
-File Size of: nid_ (5).jpg  is  0.927734375 kb 
-
-File Size of: nid_ (5).jpg  is  0.0 kb 
-
-File Size of: nid_ (5).jpg  is  0.912109375 kb 
-
-File Size of: nid_ (5).jpg  is  0.8857421875 kb 
-
-File Size of: nid_ (5).jpg  is  0.9169921875 kb 
-
-File Size of: nid_ (5).jpg  is  2.5498046875 kb 
+File Size of: nid_ (5).jpg  is  4.0 kb 
 

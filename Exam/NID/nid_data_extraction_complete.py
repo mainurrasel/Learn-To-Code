@@ -4,7 +4,8 @@ import base64
 import requests
 import sys
  
-url = "http://172.16.7.17:8005/v1/api/nidscan/"
+#url = "http://172.16.7.17:8005/v1/api/nidscan/"
+url = 'http://172.16.4.92/ocr/api.php'
 
 directory = 'C:/Users/Mainur/Pictures/example'
 #Read one file at a time and convert to base64 string
@@ -33,7 +34,7 @@ for filename in os.listdir(directory):
                     with open(filename[0:-4]+'.txt', 'w') as f:
                             sys.stdout = f # Change the standard output to the file we created.
                             base64_file_size = len(decode_utf) * 3 / 4 - decode_utf.count('=')
-                            #file_stats = os.stat( file_name)
+                            file_stats = os.stat( file_name)
                             print("File Name: ",filename,"\n",
                                     "NID Information:",(response.text),"\n",
                                     #"File Size:",file_stats.st_size/1024,"kb","\n",
@@ -41,8 +42,6 @@ for filename in os.listdir(directory):
                                     "Response Time:",response.elapsed.total_seconds(),"Sec","\n",)
                             
                             #file_stats = os.stat(file)
-                            #for file in os.listdir(file_name):
-                               # if filename.endswith(".py"):
                                  
                             print("File Size of:",filename," is ",file_stats.st_size/1024,"kb","\n")   
                             sys.stdout = original_stdout
