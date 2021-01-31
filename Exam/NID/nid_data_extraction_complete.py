@@ -30,7 +30,7 @@ for filename in os.listdir(directory):
 
                     #Creating different file names with details.
                     original_stdout = sys.stdout
-                    file_name = "C:/Users/Mainur/AppData/Local/Programs/Python/Python39/NID"
+                    file_name = "C:/Users/Mainur/AppData/Local/Programs/Python/Python39/NID2"
                     with open(filename[0:-4]+'.txt', 'w') as f:
                             sys.stdout = f # Change the standard output to the file we created.
                             base64_file_size = len(decode_utf) * 3 / 4 - decode_utf.count('=')

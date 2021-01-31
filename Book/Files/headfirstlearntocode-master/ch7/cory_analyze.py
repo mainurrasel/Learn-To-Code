@@ -1,6 +1,6 @@
-import analyze
+import analyze_withdocstrings
 
-analyze.compute_readability("""
+analyze_withdocstrings.compute_readability("""
 If you've never programmed a computer, you should. There's nothing like it in the
 whole world. When you program a computer, it does exactly what you tell it to do.
 It's like designing a machine:  any machine, like a car, like a faucet, like a gas
