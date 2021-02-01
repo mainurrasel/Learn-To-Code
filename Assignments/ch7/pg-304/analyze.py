@@ -72,25 +72,25 @@ def output_results(score):
     """
     if score >= 90:
         print('Reading level of 5th Grade')
-        print("Score value",score) #direct access to the score value
+        #print("Score value",score) #direct access to the score value
     elif score >= 80:
         print('Reading level of 6th Grade')
-        print("Score value",score)
+        #print("Score value",score)
     elif score >= 70:
         print('Reading level of 7th Grade')
-        print("Score value",score)
+        #print("Score value",score)
     elif score >= 60:
         print('Reading level of 8-9th Grade')
-        print("Score value",score)
+       # print("Score value",score)
     elif score >= 50:
         print('Reading level of 10-12th Grade')
-        print("Score value",score)
+        #print("Score value",score)
     elif score >= 30:
         print('Reading level of College Student')
-        print("Score value",score)
+        #print("Score value",score)
     else:
         print('Reading level of College Graduate')
-        print("Score value",score)
+        #print("Score value",score)
 
 def compute_readability(text):
     """This function takes a text string of any length and prints out a 
@@ -107,9 +107,10 @@ def compute_readability(text):
     total_syllables = count_syllables(words)
     score = (206.835 - 1.015 * (total_words / total_sentences)
                        - 84.6 * (total_syllables / total_words))
-
+    
+    print(score)
     output_results(score)
-
+    
 if __name__ == "__main__":
     import ch1text
     print('Chapter1 Text:')
