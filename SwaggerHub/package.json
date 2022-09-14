@@ -1,0 +1,18 @@
+{
+  "name": "swaggerhub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2",
+    "fs": "0.0.1-security",
+    "hapi": "^17.8.5",
+    "hapi-swagger": "^14.5.5",
+    "util": "^0.12.4"
+  }
+}
